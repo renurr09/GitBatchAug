@@ -13,5 +13,10 @@ public class Data {
 	private void m3() {
 
 	}
+	
+	public static void main(String[] args) {
+		
+		
+	}
 
 }
