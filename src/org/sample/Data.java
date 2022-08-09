@@ -9,5 +9,9 @@ public class Data {
 	private void m2() {
 
 	}
+	
+	private void m3() {
+
+	}
 
 }
