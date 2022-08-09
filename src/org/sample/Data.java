@@ -18,5 +18,10 @@ public class Data {
 		
 		
 	}
+	
+	private void test1() {
+ 
+		System.out.println("Test-1");
+	}
 
 }
