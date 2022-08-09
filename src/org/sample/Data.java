@@ -6,5 +6,8 @@ public class Data {
 
 	}
 	
-	
+	private void m2() {
+
+	}
+
 }
